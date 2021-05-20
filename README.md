@@ -1,7 +1,7 @@
 # <p align="center"> 🎲 Bem-vindo ao repositório do Bootcamp de Data Science Aplicada da Alura 🎲
-
- [![author](https://img.shields.io/badge/author-gustavolq-blue.svg)](https://www.linkedin.com/in/gustavoquadra/)
-  
+ 
+ [![linkedin](https://img.shields.io/badge/gustavoquadra-0077B5??style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoquadra/)
+ 
 <p align="center">
   <img src = "https://www.alura.com.br/assets/img/bootcamp/data-science-aplicada/shareImage.1621287442.png">
 </p>

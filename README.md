@@ -1,9 +1,20 @@
-# Bootcamp - Data Science Aplicada
+# <p align="center"> 🎲 Bem-vindo ao repositório do Bootcamp de Data Science Aplicada da Alura 🎲
+
+ [![author](https://img.shields.io/badge/author-gustavolq-blue.svg)](https://www.linkedin.com/in/gustavoquadra/)
+  
+<p align="center">
+  <img src = "https://www.alura.com.br/assets/img/bootcamp/data-science-aplicada/shareImage.1621287442.png">
+</p>
 
 Olá! Seja muito bem-vindo ao meu repositório referente ao Bootcamp de Data Science Aplicada 2021 da [Alura](https://www.alura.com.br/).
 
-O conteúdo desse bootcamp está dividido da seguinte forma :
-- **Módulo 01 : Python e Pandas para análise de dados reais**
+## Mas o que é o Bootcamp de Data Science Aplicada? 🤔
+O bootcamp de Data Science Aplicada é um treinamento com 12 semanas de aulas com foco nas principais técnicas e tecnologias de Ciência de Dados e Machine Learning, visando desafios, práticas e criação de portfólios com projetos utilizando datasets reais!
+
+## Programação do Bootcamp 💻
+
+O conteúdo desse bootcamp está dividido através de módulos com suas respectivas aulas e projetos em seus repositórios.
+- **[Módulo 01 : Python e Pandas para análise de dados reais](https://github.com/gustavolq/Bootcamp-DataScience-Alura/tree/main/Modulo_01)**
 - **Módulo_02 : Visualização de Dados com Seaborn e Matplotlib**
 - **Módulo_03 : Análise de Séries Temporais**
 - **Módulo_04 : Tratamento, análise e Machine Learning aplicado**

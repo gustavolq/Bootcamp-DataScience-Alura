@@ -15,8 +15,8 @@ O bootcamp de Data Science Aplicada é um treinamento com 12 semanas de aulas co
 
 O conteúdo desse bootcamp está dividido através de módulos com suas respectivas aulas e projetos em seus repositórios.
 - **[Módulo 01 : Python e Pandas para análise de dados reais](https://github.com/gustavolq/Bootcamp-DataScience-Alura/tree/main/Modulo_01)**
-- **Módulo_02 : Visualização de Dados com Seaborn e Matplotlib**
-- **Módulo_03 : Análise de Séries Temporais**
-- **Módulo_04 : Tratamento, análise e Machine Learning aplicado**
-- **Módulo_05 : Modelos, métricas e validações em Machine Learning**
-- **Módulo_06 : Módulo Extra**
+- **Módulo 02 : Visualização de Dados com Seaborn e Matplotlib**
+- **Módulo 03 : Análise de Séries Temporais**
+- **Módulo 04 : Tratamento, análise e Machine Learning aplicado**
+- **Módulo 05 : Modelos, métricas e validações em Machine Learning**
+- **Módulo 06 : Módulo Extra**

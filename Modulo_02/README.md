@@ -48,15 +48,11 @@ O objetivo principal do projeto será realizar uma análise de dados referente �
 Os dados foram extraídos do [Portal de Dados Abertos do Estado de Santa Catarina](http://dados.sc.gov.br/tr/dataset/covid-19-dados-anonimizados-de-casos-confirmados) em 04/06/2021 e sofreram um processo de manipulação para utilizarmos as seguintes variáveis :
 - recuperados
 - data_inicio_sintomas
-- data_coleta
 - sintomas
-- comorbidades
 - sexo
 - municipio
 - obito
-- data_obito
 - idade
-- raca
 
 Os dados foram separados utilizando o comando ```split -l 195665 Todos-Confirmados-SC.csv``` em minha máquina e podem ser acessados nesse [repositório](https://github.com/gustavolq/Bootcamp-DataScience-Alura/tree/main/Modulo_02/Projeto/Dados).
 

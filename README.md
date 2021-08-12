@@ -17,6 +17,6 @@ O conteúdo desse bootcamp está dividido através de módulos com suas respecti
 - **[Módulo 01 : Python e Pandas para análise de dados reais](https://github.com/gustavolq/Bootcamp-DataScience-Alura/tree/main/Modulo_01)**
 - **[Módulo 02 : Visualização de Dados com Seaborn e Matplotlib](https://github.com/gustavolq/Bootcamp-DataScience-Alura/tree/main/Modulo_02)**
 - **[Módulo 03 : Análise de Séries Temporais](https://github.com/gustavolq/Bootcamp-DataScience-Alura/tree/main/Modulo_03)**
-- **Módulo 04 : Tratamento, análise e Machine Learning aplicado**
-- **Módulo 05 : Modelos, métricas e validações em Machine Learning**
+- **[Módulo 04 : Tratamento, análise e Machine Learning aplicado](https://github.com/gustavolq/Bootcamp-DataScience-Alura/tree/main/Modulo_04)**
+- **[Módulo 05 : Modelos, métricas e validações em Machine Learning](https://github.com/gustavolq/Bootcamp-DataScience-Alura/tree/main/Modulo_05)**
 - **Módulo 06 : Módulo Extra**
